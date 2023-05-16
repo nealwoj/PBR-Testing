@@ -1,3 +1,3 @@
 # PBR Testing
-PBR materials, bump offsets, and more using the Unreal Engine.
+Playing around with PBR materials and bump offsets using the Unreal Engine.
 This was an assignment for a graphics class at Champlain College.
